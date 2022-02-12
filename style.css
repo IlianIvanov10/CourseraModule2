@@ -9,33 +9,33 @@
 
 .chicken{
 	text-align: center;
-	height: 8%;
+	height: 20px;
 	width: 130px;
 	background-color: #ffff4d;
 	border: 1px solid black;
 	position: absolute;
-	left: 54.3%;
-	bottom: 91.5%;
+	top: 0;
+	right: 0;
 }
 .beef{
 	text-align: center;
-	height: 8%;
+	height: 20px;
 	width: 130px;
 	background-color: #ff3333;
 	border: 1px solid black;
 	position: absolute;
-	left: 54.3%;
-	bottom: 91.5%;
+	top: 0;
+	right: 0;
 }
 .sushi{
 	text-align: center;
-	height: 8%;
+	height: 20px;
 	width: 130px;
 	background-color: #6699ff;
 	border: 1px solid black;
 	position: absolute;
-	left: 54.3%;
-	bottom: 91.5%;
+	top: 0;
+	right: 0;
 }
 
 @media (min-width: 992px) {
